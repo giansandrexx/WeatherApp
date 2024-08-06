@@ -1,1 +1,1 @@
-# WeatherApp
+# WeatherApp - Creating a Weather Application
