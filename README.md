@@ -1,4 +1,4 @@
-WeatherApp 🌤️
+# WeatherApp 🌤️
 
 Welcome to WeatherApp! This application provides real-time weather updates for any location worldwide. It's built using modern web technologies and offers a user-friendly interface for checking weather conditions.
 
@@ -13,8 +13,4 @@ Features
 - Detailed weather information (temperature, humidity, wind speed, etc.)
 - Customizable settings for preferred units (Celsius/Fahrenheit)
 
-Contact
-If you have any questions or feedback, feel free to reach out:
-
-✉️ Email: fgiansandrex@gmail.com
-
+![Weather App](https://github.com/user-attachments/assets/e1e2b531-e3a0-4fa8-b996-5cb377dbb194)
